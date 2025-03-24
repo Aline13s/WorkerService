@@ -21,3 +21,4 @@ C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Entities\obj\De
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Entities\obj\Debug\net8.0\refint\WorkerService.Entities.dll
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Entities\obj\Debug\net8.0\WorkerService.Entities.pdb
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Entities\obj\Debug\net8.0\ref\WorkerService.Entities.dll
+C:\Users\aline\source\repos\WorkerService\WorkerService.Entities\obj\Debug\net8.0\WorkerService.Entities.sourcelink.json

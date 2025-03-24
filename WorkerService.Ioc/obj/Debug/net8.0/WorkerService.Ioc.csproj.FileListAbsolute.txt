@@ -45,3 +45,4 @@ C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Ioc\obj\Debug\n
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Ioc\obj\Debug\net8.0\refint\WorkerService.Ioc.dll
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Ioc\obj\Debug\net8.0\WorkerService.Ioc.pdb
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Ioc\obj\Debug\net8.0\ref\WorkerService.Ioc.dll
+C:\Users\aline\source\repos\WorkerService\WorkerService.Ioc\obj\Debug\net8.0\WorkerService.Ioc.sourcelink.json

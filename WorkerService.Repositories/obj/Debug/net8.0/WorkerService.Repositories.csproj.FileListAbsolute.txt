@@ -37,3 +37,4 @@ C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Repositories\ob
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Repositories\obj\Debug\net8.0\WorkerService.Repositories.pdb
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Repositories\obj\Debug\net8.0\WorkerService.Repositories.genruntimeconfig.cache
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Repositories\obj\Debug\net8.0\ref\WorkerService.Repositories.dll
+C:\Users\aline\source\repos\WorkerService\WorkerService.Repositories\obj\Debug\net8.0\WorkerService.Repositories.sourcelink.json

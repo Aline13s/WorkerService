@@ -391,3 +391,4 @@ C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService\obj\Debug\net8.
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService\obj\Debug\net8.0\WorkerService.pdb
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService\obj\Debug\net8.0\WorkerService.genruntimeconfig.cache
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService\obj\Debug\net8.0\ref\WorkerService.dll
+C:\Users\aline\source\repos\WorkerService\WorkerService\obj\Debug\net8.0\WorkerService.sourcelink.json

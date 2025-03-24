@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AvRjxzTGSPE=",
+  "dgSpecHash": "dGHX5DvjRfI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aline\\source\\repos\\Aline13s\\WorkerService\\WorkerService.Ioc\\WorkerService.Ioc.csproj",
+  "projectFilePath": "C:\\Users\\aline\\source\\repos\\WorkerService\\WorkerService.Ioc\\WorkerService.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aline\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\aline\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

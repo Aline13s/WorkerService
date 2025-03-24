@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dofiidMPnuc=",
+  "dgSpecHash": "4mdOoUnnHLg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aline\\source\\repos\\Aline13s\\WorkerService\\WorkerService.Interfaces\\WorkerService.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\aline\\source\\repos\\WorkerService\\WorkerService.Interfaces\\WorkerService.Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aline\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512",
     "C:\\Users\\aline\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",

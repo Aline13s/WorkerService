@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aline\\source\\repos\\Aline13s\\WorkerService\\WorkerService.Interfaces\\WorkerService.Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\aline\\source\\repos\\WorkerService\\WorkerService.Interfaces\\WorkerService.Interfaces.csproj",
       "projectName": "WorkerService.Interfaces",
-      "projectPath": "C:\\Users\\aline\\source\\repos\\Aline13s\\WorkerService\\WorkerService.Interfaces\\WorkerService.Interfaces.csproj",
+      "projectPath": "C:\\Users\\aline\\source\\repos\\WorkerService\\WorkerService.Interfaces\\WorkerService.Interfaces.csproj",
       "packagesPath": "C:\\Users\\aline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aline\\source\\repos\\Aline13s\\WorkerService\\WorkerService.Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\aline\\source\\repos\\WorkerService\\WorkerService.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\aline\\source\\repos\\Aline13s\\WorkerService\\WorkerService.Entities\\WorkerService.Entities.csproj": {
-              "projectPath": "C:\\Users\\aline\\source\\repos\\Aline13s\\WorkerService\\WorkerService.Entities\\WorkerService.Entities.csproj"
+            "C:\\Users\\aline\\source\\repos\\WorkerService\\WorkerService.Entities\\WorkerService.Entities.csproj": {
+              "projectPath": "C:\\Users\\aline\\source\\repos\\WorkerService\\WorkerService.Entities\\WorkerService.Entities.csproj"
             }
           }
         }

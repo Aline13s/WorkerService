@@ -29,3 +29,4 @@ C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Interfaces\obj\
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Interfaces\obj\Debug\net8.0\refint\WorkerService.Interfaces.dll
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Interfaces\obj\Debug\net8.0\WorkerService.Interfaces.pdb
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Interfaces\obj\Debug\net8.0\ref\WorkerService.Interfaces.dll
+C:\Users\aline\source\repos\WorkerService\WorkerService.Interfaces\obj\Debug\net8.0\WorkerService.Interfaces.sourcelink.json

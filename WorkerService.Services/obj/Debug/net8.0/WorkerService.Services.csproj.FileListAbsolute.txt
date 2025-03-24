@@ -33,3 +33,4 @@ C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Services\obj\De
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Services\obj\Debug\net8.0\refint\WorkerService.Services.dll
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Services\obj\Debug\net8.0\WorkerService.Services.pdb
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Services\obj\Debug\net8.0\ref\WorkerService.Services.dll
+C:\Users\aline\source\repos\WorkerService\WorkerService.Services\obj\Debug\net8.0\WorkerService.Services.sourcelink.json

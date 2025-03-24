@@ -33,3 +33,4 @@ C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Data\obj\Debug\
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Data\obj\Debug\net8.0\WorkerService.Data.pdb
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Data\obj\Debug\net8.0\WorkerService.Data.genruntimeconfig.cache
 C:\Users\aline\source\repos\Aline13s\WorkerService\WorkerService.Data\obj\Debug\net8.0\ref\WorkerService.Data.dll
+C:\Users\aline\source\repos\WorkerService\WorkerService.Data\obj\Debug\net8.0\WorkerService.Data.sourcelink.json

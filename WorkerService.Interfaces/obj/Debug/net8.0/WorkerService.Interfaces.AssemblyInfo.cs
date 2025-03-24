@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkerService.Interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21a700a84932c56f86ae5678cd376ff7f1ddcba3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2068189d2bee6b329d4bba14725ebf4dfa4b822a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkerService.Interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkerService.Interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

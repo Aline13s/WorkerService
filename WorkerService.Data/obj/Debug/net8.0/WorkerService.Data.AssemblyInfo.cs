@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkerService.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21a700a84932c56f86ae5678cd376ff7f1ddcba3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6acd6065147ea66e971b738ec5880ba044fbdcdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkerService.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkerService.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
