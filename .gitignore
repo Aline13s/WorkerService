@@ -4,3 +4,6 @@
 
 /.vs
 /WorkerService/.vs/WorkerService/v17
+# Excluir pastas de build
+**/bin/
+**/obj/
